@@ -10,4 +10,5 @@ __garage gang__
 - [ ] a
 - [ ] task
 - [ ] list
-🐢:shipit:🏕️🗻⛰️🏔️🥔🦖🦕
+
+🐢🏕️🗻⛰️🏔️🥔🦖🦕
