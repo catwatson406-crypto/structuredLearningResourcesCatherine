@@ -5,8 +5,8 @@ __garage gang__
 - is
 - a
 - list
-[ ]this
-[ ]is
-[ ]a
-[ ]task
-[ ]list
+-[ ]this
+-[ ]is
+-[ ]a
+-[ ]task
+-[ ]list
